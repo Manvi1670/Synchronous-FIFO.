@@ -31,7 +31,7 @@ It demonstrates key digital design concepts such as:
 ### ✅ Simulation Results
 
 The FIFO was simulated using **EPWave ** with successful verification of all write/read sequences.
-[EP_Wave]()
+[EP_Wave](https://github.com/Manvi1670/Synchronous-FIFO./blob/13479df9cb9f8315a3e4b204b834d670425ab37d/EP%20WAVE.png)
 
 > ✅ Matching `data_in` and `data_out`
 > ✅ Proper flag toggling (`empty`, `full`)
