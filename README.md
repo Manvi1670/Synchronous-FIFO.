@@ -52,7 +52,7 @@ The FIFO was simulated using **EPWave ** with successful verification of all wri
 
 
 
-** Run Online (EDA Playground):**
+
    Use [EDAPlayground](https://www.edaplayground.com/) to quickly simulate and view waveforms online.
 
 ---
